@@ -1,5 +1,5 @@
 Developing the Rock Paper Scizzors game.
-Just coded my 1st version in java.
+Just coded my 1st version in C++.
 
 Future updates - Using HTML,CSS and JavaScript
     1.Web Game - 2D structured.
